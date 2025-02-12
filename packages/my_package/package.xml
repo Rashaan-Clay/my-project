@@ -4,7 +4,7 @@
   <description>
   My first Catkin package in Duckietown.
   </description>
-  <maintainer email="rashaanrhclay@gmail.com">Rashana Clay</maintainer>
+  <maintainer email="rashaanrhclay@gmail.com">Rashaan Clay</maintainer>
   <license>None</license>
 
   <buildtool_depend>catkin</buildtool_depend>
